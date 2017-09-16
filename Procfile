@@ -1,1 +1,1 @@
-web: python ./restservice.py $PORT
+web: python ./restservice.py 8080
