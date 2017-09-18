@@ -10,4 +10,4 @@ def index():
 
 if __name__ == '__main__':
     #run(host='0.0.0.0',port=argv[1])
-    run(host='0.0.0.0',port=8888)
+    run(host='0.0.0.0',port='8888')
