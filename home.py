@@ -1,5 +1,5 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 #encoding: UTF-8
 
 if __name__ == "__main__":    
-    print '<h1>HOME Page</1>'
+    print('<h1>HOME Page</1>')
